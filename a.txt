@@ -4,3 +4,6 @@ hello
 heello aditya
 
 >>>>>>> bug
+
+
+hello everyone
