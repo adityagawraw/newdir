@@ -1,4 +1,14 @@
+<<<<<<< HEAD
+hello 
+
 heello aditya
 
 Hi I am from bug
+
+
+
+
+hello everyone
+
+Hii i am from master 
 
