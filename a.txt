@@ -1,11 +1,14 @@
 <<<<<<< HEAD
 hello 
-=======
+
 heello aditya
 
->>>>>>> bug
+Hi I am from bug
+
+
 
 
 hello everyone
 
 Hii i am from master 
+
