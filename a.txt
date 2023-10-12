@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-hello 
-=======
-heello aditya
 
->>>>>>> bug
+hello 
+
+heello Gaurav
 
 
 hello everyone
